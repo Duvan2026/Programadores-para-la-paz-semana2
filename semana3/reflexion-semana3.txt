@@ -1,0 +1,8 @@
+es importante por que permite saber que cambios se hicieron y cuando.
+ayuda a identificar quien modifico el codigo en cada momento.
+facilita corregir errores volviendo a versiones anteriores.
+evita perder avances del proyecto.
+permite trabajar en equipo sin sobrescribir el trabajo de otros.
+organiza el desarrollo en etapas claras y controladas.
+hace mas facil probar nuevas ideas sin dañar la version principal.
+en general, mejora el orden, la seguridad y la calidad del software.

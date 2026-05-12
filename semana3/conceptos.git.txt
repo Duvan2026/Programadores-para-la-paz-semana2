@@ -1,0 +1,3 @@
+Un repositorio en GitHub es un espacio donde se guarda y organiza el codigo de un proyecto permitiendo controlar cambios
+Un commit en Git es guardar cambios del proyecto como una foto del codigo en un momento especifico, con un mensaje.
+Push en Git es enviar los commits desde tu repositorio local a un repositorio remoto, actualizando el proyecto en linea.
